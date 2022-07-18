@@ -4,6 +4,8 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoachedEggsWithBacon&layout=compact" />
 
+<br />
+
 - 👋 Hi, I’m @PoachedEggsWithBacon
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
