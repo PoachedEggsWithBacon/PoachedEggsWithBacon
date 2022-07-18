@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoachedEggsWithBacon&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoachedEggsWithBacon&show_icons=true&theme=tokyonight)
 
 - 👋 Hi, I’m @PoachedEggsWithBacon
 - 👀 I’m interested in ...
