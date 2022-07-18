@@ -1,4 +1,4 @@
-# Hi, there! I'm Mark Hoover (@PoachedEggsWithBacon)
+# Hi, there! I'm Mark!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoachedEggsWithBacon&show_icons=true&theme=merko)
 
