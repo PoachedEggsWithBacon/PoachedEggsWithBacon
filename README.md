@@ -1,11 +1,5 @@
 # Hi, there! I'm Mark!
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PoachedEggsWithBacon&show_icons=true&theme=merko" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoachedEggsWithBacon&layout=compact" />
-
-<br />
-
 - 👋 Hi, I’m @PoachedEggsWithBacon
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -17,3 +11,6 @@ PoachedEggsWithBacon/PoachedEggsWithBacon is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PoachedEggsWithBacon&show_icons=true&theme=merko" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoachedEggsWithBacon&layout=compact" />
