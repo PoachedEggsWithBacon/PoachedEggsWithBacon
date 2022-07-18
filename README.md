@@ -1,8 +1,8 @@
 # Hi, there! I'm Mark!
 
-<img src="https://github-readme-stats.vercel.app/api?username=PoachedEggsWithBacon&show_icons=true&theme=merko" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=PoachedEggsWithBacon&show_icons=true&theme=merko" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoachedEggsWithBacon&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoachedEggsWithBacon&layout=compact" />
 
 - 👋 Hi, I’m @PoachedEggsWithBacon
 - 👀 I’m interested in ...
